@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.results{
+    color: crimson;
+}
+
+.form-group label{
+    font-size: 100px;
+    color: cadetblue;
+}
